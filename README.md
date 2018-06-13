@@ -6,6 +6,6 @@ The purpose of the weather-app is to find the temperature conditions of differen
 
 !['Screenshot Home page'](https://github.com/dkhayutin/WeatherApp/blob/master/docs/Home-page.png?raw=true)
 
-!['Screenshot Sample Weather One'](hhttps://github.com/dkhayutin/WeatherApp/blob/master/docs/sample-weather.png?raw=true)
+!['Screenshot Sample Weather Two'](https://github.com/dkhayutin/WeatherApp/blob/master/docs/sample-weather.png?raw=true)
 
 !['Screenshot Sample Weather Two'](https://github.com/dkhayutin/WeatherApp/blob/master/docs/sample-weather2.png?raw=true)
