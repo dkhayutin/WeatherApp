@@ -11,11 +11,11 @@ The purpose of the weather-app is to find the temperature conditions of differen
 !['Screenshot Sample Weather Two'](https://github.com/dkhayutin/WeatherApp/blob/master/docs/sample-weather2.png?raw=true)
 
 ## Dependencies
-React
-Webpack
-Babel-loader
+- React
+- Webpack
+- Babel-loader
 
 ## Getting Started
 Start by running ```$ npm install``` inside the main project folder
 
-Start up the node server using the commant: ```$ npm start``` 
+Start up the node server using the commant: ```$ npm start```
